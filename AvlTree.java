@@ -5,7 +5,7 @@ class AvlNode{
 	
 		String str;
 		int height;
-		AvlNode left,right;
+		AvlNode left,right,check,check2,check3;
 
 		AvlNode(String temp){								/*Constructor*/
 
